@@ -15,4 +15,5 @@
 ## Link to Repo
   https://github.com/rodriguezr1016/note-taker
 ## Screenshot
-  ![alt-text]()
+<img width="1440" alt="Screen Shot 2023-10-24 at 11 03 47 PM" src="https://github.com/rodriguezr1016/note-taker/assets/134916213/4ae920f7-9082-47b5-bd0e-a85d9bc9d3c1">
+
